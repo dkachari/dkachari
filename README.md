@@ -10,9 +10,9 @@
 
 
 <p align="center">
-
-
-
+ 
+ <img src="https://cdn.discordapp.com/attachments/825016611273441311/857975880361312326/miniGif_20200702144856.gif?ex=67f9194e&is=67f7c7ce&hm=85f7cce8d8d99e558313d74fe257d6b83d7a0492f6e3b10e4531d620cd5a395a&" width="100%" height="10px"> 
+ </br>
 
 <!-- Social Media Icons  -->
 <a href="https://www.linkedin.com/in/d-kachari-5865132b5/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/fluency/48/9e4c98/linkedin.png"/></a>
@@ -27,8 +27,6 @@
 
 </br>
 
- <img src="https://cdn.discordapp.com/attachments/825016611273441311/857975880361312326/miniGif_20200702144856.gif?ex=67f9194e&is=67f7c7ce&hm=85f7cce8d8d99e558313d74fe257d6b83d7a0492f6e3b10e4531d620cd5a395a&" width="100%" height="10px"> 
- </br>
 
 
 <h3> 🚀 Innovative Full Stack Developer | AI & Blockchain Enthusiast | Open-Source Advocate </h3>
