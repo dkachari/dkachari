@@ -30,11 +30,11 @@
 
 
 <h3> 🚀 Innovative Full Stack Developer | AI & Blockchain Enthusiast | Open-Source Advocate </h3>
-<hr>
-
+##
+<div>
 <p>I architect immersive digital experiences across web and mobile platforms, blending cutting-edge development with AI/Blockchain integration. As a passionate open-source contributor, I build tools that empower developer communities while speaking at tech conferences to demystify emerging technologies.</p>
-</br>
-
+</div>
+##
 
 ## 📊 Stats:
 
