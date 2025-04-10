@@ -21,10 +21,15 @@
 [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=dkachari&bg_color=1a0520&color=9e4c98&line=bf5fbb&point=ffffff&area=true&area_color=9e4c98&hide_border=true)](https://github.com/dkachari)
 
 
+ 
 <details>
+
+
+
  
 <summary><h2>💻 Tech Stack</h2></summary>
-
+ <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+ 
 ## 🗣️ Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
