@@ -5,10 +5,9 @@
  </br>
  </br>
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=BF5FBB&width=600&lines=Myself+Debojit!!!;This+is+my+github+repo.;Better+you+not+copy+it.)](https://git.io/typing-svg)
 
 
- 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&duration=2000&pause=1000&color=F6FF00&center=true&vCenter=true&width=700&height=60&lines=Hi+there!+Debojit+this+side+%F0%9F%91%8B;Full+Stack+Web+Developer.;Better+Not+To+Steal+My+Code!!" alt="Typing SVG" /></a>
 
 ## 📊 GitHub Stats:
 
