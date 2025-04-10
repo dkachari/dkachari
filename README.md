@@ -10,15 +10,10 @@
 
  <img src="https://cdn.discordapp.com/attachments/825016611273441311/857975880361312326/miniGif_20200702144856.gif?ex=67f9194e&is=67f7c7ce&hm=85f7cce8d8d99e558313d74fe257d6b83d7a0492f6e3b10e4531d620cd5a395a&" width="100%" height="10px"> 
  </br>
- </br>
 
 <p align="center">
 
 
-<h2> 
-<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> 
-</h2>
-</br>
 
 
 <!-- Social Media Icons  -->
