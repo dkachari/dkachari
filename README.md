@@ -10,11 +10,19 @@
 
 <hr>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sajidul-ahmed-b5177a312/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bio.sepiaz.in/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Z_lmaoooo/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/8kGabWKpMB)
+<p align="center">
+ 
+
+<!-- Social Media Icons  -->
+<a href="https://www.linkedin.com/in/d-kachari-5865132b5/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/fluency/48/9e4c98/linkedin.png"/></a>
+&#8287;&#8287;&#8287;&#8287;&#8287;
+<a href="https://twitter.com/"><img width="32px" alt="Twitter" title="Twitter" src="https://img.icons8.com/fluency/48/9e4c98/twitter.png"/></a>
+&#8287;&#8287;&#8287;&#8287;&#8287;
+<a href="https://discord.gg/DkMZzdPm8N" alt="Discord" title="Discord Server"><img width="32px" src="https://img.icons8.com/fluency/48/9e4c98/discord-logo.png"/></a>
+&#8287;&#8287;&#8287;&#8287;&#8287;
+<a href="https://leetcode.com/dkachari" alt="LeetCode" title="LeetCode"><img width="32px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/9e4c98/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/></a>
+&#8287;&#8287;&#8287;&#8287;&#8287;
+<a href="https://bio.sepiaz.in" alt="Portfolio" title="Portfolio"><img width="32px" src="https://img.icons8.com/fluency/48/9e4c98/portfolio.png"/></a>
 
 
 ## 📊 GitHub Stats:
