@@ -7,8 +7,8 @@
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=BF5FBB&width=435&lines=Myself+Debojit!!!;This+is+my+github+repo.;Better+you+not+copy+it.)](https://git.io/typing-svg)
 
-<img src="https://github.com/dkachari/dkachari/blob/main/gif/pinterest-video.gif" width="100%"  alt="Description">
 
+![GIF](https://github.com/dkachari/dkachari/blob/main/gif/pinterest-video.gif)
 
 ## 📊 GitHub Stats:
 
