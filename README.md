@@ -8,6 +8,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=BF5FBB&width=435&lines=Myself+Debojit!!!;This+is+my+github+repo.;Better+you+not+copy+it.)](https://git.io/typing-svg)
 
 
+ <img src="(https://cdn.discordapp.com/attachments/955542036486959164/1359950642470457605/pinterest-video.gif?ex=67f9583b&is=67f806bb&hm=c09b936dbd6b69d9bbe1630315c481975a318ff17c1383479d7a5f3306393f7b&)" width="100%" height="10px"> 
+
 ## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=dkachari&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
