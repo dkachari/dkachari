@@ -42,6 +42,7 @@
 <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dkachari&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+</br>
 
 ## 🌟 Contribution Graph
 [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=dkachari&bg_color=1a0520&color=9e4c98&line=bf5fbb&point=ffffff&area=true&area_color=9e4c98&hide_border=true)](https://github.com/dkachari)
