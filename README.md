@@ -3,12 +3,15 @@
  <img src="https://cdn.discordapp.com/attachments/825016611273441311/857975880361312326/miniGif_20200702144856.gif?ex=67f9194e&is=67f7c7ce&hm=85f7cce8d8d99e558313d74fe257d6b83d7a0492f6e3b10e4531d620cd5a395a&" width="100%" height="10px"> 
  </br>
  </br>
+
+ <img src="https://github.com/dkachari/dkachari/blob/main/gif/111.gif" width="900" height="300" > 
+ </br>
  </br>
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=BF5FBB&width=435&lines=Myself+Debojit!!!;This+is+my+github+repo.;Better+you+not+copy+it.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=BF5FBB&width=600&lines=Myself+Debojit!!!;This+is+my+github+repo.;Better+you+not+copy+it.)](https://git.io/typing-svg)
 
 
-![GIF](https://github.com/dkachari/dkachari/blob/main/gif/pinterest-video.gif)
+ 
 
 ## 📊 GitHub Stats:
 
