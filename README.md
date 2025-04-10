@@ -8,7 +8,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=BF5FBB&width=435&lines=Myself+Debojit!!!;This+is+my+github+repo.;Better+you+not+copy+it.)](https://git.io/typing-svg)
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=dkachari&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
 <br/>
@@ -98,7 +98,14 @@
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 
 </details>
-<br/>
+</br>
+
+## 🏆 Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=madushadhanushka&theme=onedark&title=Stars,Commit,Issues,PullRequest,Repository&no-bg=true&title_color=9e4c98&text_color=d3d3d3" width="100%"/>
+</br>
+</br>
+</br>
+
 
 <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> 
   <h1>
