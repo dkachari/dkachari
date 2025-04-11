@@ -39,12 +39,15 @@
 ## 📊 Stats:
  
  
-<a href="https://github.com/anuraghazra/github-readme-stats" style="display:inline-block; border: 1px solid white; border-radius: 12px; overflow: hidden; margin: 5px;">
-  <img alt="dkachari's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=dkachari&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=00000000" height="192px"/>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats" style="display:inline-block; border: 1px solid white; border-radius: 12px; overflow: hidden; margin: 5px;">
-  <img alt="dkachari's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkachari&langs_count=8&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000&hide=Jupyter%20Notebook,Roff" height="192px"/>
-</a>
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="display:inline-block; border: 1px solid white; border-radius: 12px; overflow: hidden; margin: 5px;">
+    <img alt="dkachari's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=dkachari&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=00000000" height="192px"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="display:inline-block; border: 1px solid white; border-radius: 12px; overflow: hidden; margin: 5px;">
+    <img alt="dkachari's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkachari&langs_count=8&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000&hide=Jupyter%20Notebook,Roff" height="192px"/>
+  </a>
+</div>
+
 <br/>
 <br/>
 <br/>
