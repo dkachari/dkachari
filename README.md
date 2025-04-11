@@ -37,18 +37,14 @@
 
 
 ## 📊 Stats:
-
-
  
-<div>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="dkachari's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=dkachari&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=BF5FBB&icon_color=9E4C98&text_color=FFFFFF" height="192px"/>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="dkachari's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=dkachari&langs_count=8&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=BF5FBB&icon_color=9E4C98&text_color=FFFFFF&hide=Jupyter%20Notebook,Roff" height="192px"/>
-</a>
- 
-<br/>
+<div style="display: flex; justify-content: space-between;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="dkachari's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=dkachari&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=BF5FBB&icon_color=9E4C98&text_color=FFFFFF&hide_rank=true" height="195px"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="dkachari's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkachari&langs_count=8&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=BF5FBB&icon_color=9E4C98&text_color=FFFFFF&hide=Jupyter%20Notebook,Roff" height="195px"/>
+  </a>
 </div>
 
 ## 🌟 Contribution Graph
