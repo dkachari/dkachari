@@ -38,12 +38,20 @@
 
 ## 📊 Stats:
  
-<div style="display: flex; justify-content: space-between;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="dkachari's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=dkachari&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=BF5FBB&icon_color=9E4C98&text_color=FFFFFF&hide_rank=true" height="195px"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="dkachari's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkachari&langs_count=8&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=BF5FBB&icon_color=9E4C98&text_color=FFFFFF&hide=Jupyter%20Notebook,Roff" height="195px"/>
+<div style="display: flex; flex-direction: column; gap: 1rem;">
+  <!-- Top Row: Stats + Languages -->
+  <div style="display: flex; justify-content: space-between;">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img alt="dkachari's Stats" src="https://github-readme-stats.vercel.app/api/?username=dkachari&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=0D111700&title_color=BF5FBB&icon_color=FFFFFF&text_color=FFFFFF&hide_rank=true&icon_bg_color=9E4C9866&area=true&area_color=9E4C98" height="195px"/>
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img alt="dkachari's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkachari&langs_count=8&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D111700&title_color=BF5FBB&icon_color=FFFFFF&text_color=FFFFFF&hide=Jupyter%20Notebook,Roff&icon_bg_color=9E4C9866&area=true&area_color=9E4C98&custom_title=Top%20Languages&card_width=300&icon_size=18" height="195px"/>
+    </a>
+  </div>
+</br>
+  <!-- Bottom Row: Streak Stats -->
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dkachari&theme=midnight-purple&hide_border=false&background=0D111700&stroke=9E4C98&ring=BF5FBB&fire=BF5FBB&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=BF5FBB&sideLabels=BF5FBB&dates=9E4C98" alt="dkachari's streak stats" height="195px"/>
   </a>
 </div>
 
