@@ -155,14 +155,12 @@
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=flat-square&logo=tor-project&logoColor=white)
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat-square&logo=cisco&logoColor=black)
 </div>
-
 </div>
 </details>
 </br>
 
-
 <details>
-<summary><h2 style="display: inline-block; margin: 0;">🏆 Trophies Won:</h2></summary>
+<summary><h2 style="display: inline-block; margin: 0;">🏆 Trophies Recieved:</h2></summary>
 <img src="https://github-profile-trophy.vercel.app/?username=madushadhanushka&theme=onedark&title=Stars,Commit,Issues,PullRequest,Repository&no-bg=true&title_color=9e4c98&text_color=d3d3d3" width="100%"/>
 </br>
 </br>
