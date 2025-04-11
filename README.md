@@ -38,12 +38,18 @@
 
 ## 📊 Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=dkachari&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+ 
+<div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img alt="dkachari's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=dkachari&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=BF5FBB&icon_color=9E4C98&text_color=FFFFFF" height="192px"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img alt="dkachari's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=dkachari&langs_count=8&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=BF5FBB&icon_color=9E4C98&text_color=FFFFFF&hide=Jupyter%20Notebook,Roff" height="192px"/>
+</a>
+ 
 <br/>
-![](https://nirzak-streak-stats.vercel.app/?user=dkachari&theme=midnight-purple&hide_border=false)<br/>
-<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dkachari&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</br>
+</div>
 
 ## 🌟 Contribution Graph
 [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=dkachari&bg_color=1a0520&color=9e4c98&line=bf5fbb&point=ffffff&area=true&area_color=9e4c98&hide_border=true)](https://github.com/dkachari)
