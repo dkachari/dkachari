@@ -55,15 +55,15 @@
   </a>
 </div>
 
-## 🌟 Contribution Graph
+## 🌟 Contribution Graph:
 [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=dkachari&bg_color=1a0520&color=9e4c98&line=bf5fbb&point=ffffff&area=true&area_color=9e4c98&hide_border=true)](https://github.com/dkachari)
 
 
 
 <details>
-<summary><h2 style="display: inline-block; margin: 0;">💻 Tech Stack</h2></summary>
+<summary><h2 style="display: inline-block; margin: 0;">💻 Tech Accomplishments:</h2></summary>
  
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+ <hr>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem;">
 
@@ -160,11 +160,14 @@
 </details>
 </br>
 
-## 🏆 Trophies
+
+<details>
+<summary><h2 style="display: inline-block; margin: 0;">🏆 Trophies Won:</h2></summary>
 <img src="https://github-profile-trophy.vercel.app/?username=madushadhanushka&theme=onedark&title=Stars,Commit,Issues,PullRequest,Repository&no-bg=true&title_color=9e4c98&text_color=d3d3d3" width="100%"/>
 </br>
 </br>
 </br>
+</details>
 
 
 
