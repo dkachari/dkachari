@@ -38,26 +38,27 @@
 
 ## 📊 Stats:
  
-<div style="display: flex; flex-direction: column; gap: 1rem;">
-  <!-- Top Row: Stats + Languages -->
-  <div style="display: flex; justify-content: space-between;">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="dkachari's Stats" src="https://github-readme-stats.vercel.app/api/?username=dkachari&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=0D111700&title_color=BF5FBB&icon_color=FFFFFF&text_color=FFFFFF&hide_rank=true&icon_bg_color=9E4C9866&area=true&area_color=9E4C98" height="195px"/>
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="dkachari's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkachari&langs_count=8&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D111700&title_color=BF5FBB&icon_color=FFFFFF&text_color=FFFFFF&hide=Jupyter%20Notebook,Roff&icon_bg_color=9E4C9866&area=true&area_color=9E4C98&custom_title=Top%20Languages&card_width=300&icon_size=18" height="195px"/>
-    </a>
-  </div>
+ 
+<a href="https://github.com/anuraghazra/github-readme-stats" style="display:inline-block; border: 1px solid white; border-radius: 12px; overflow: hidden; margin: 5px;">
+  <img alt="dkachari's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=dkachari&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=00000000" height="192px"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats" style="display:inline-block; border: 1px solid white; border-radius: 12px; overflow: hidden; margin: 5px;">
+  <img alt="dkachari's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkachari&langs_count=8&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000&hide=Jupyter%20Notebook,Roff" height="192px"/>
+</a>
+<br/>
+<br/>
+<br/>
+ <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dkachari&theme=midnight-purple&hide_border=false&background=0D111700&stroke=8A2BE2&ring=8A2BE2&fire=8A2BE2&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8A2BE2&sideLabels=8A2BE2&dates=8A2BE2" alt="dkachari's streak stats" height="195px"/>
+</a>
+
 </br>
-  <!-- Bottom Row: Streak Stats -->
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dkachari&theme=midnight-purple&hide_border=false&background=0D111700&stroke=9E4C98&ring=BF5FBB&fire=BF5FBB&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=BF5FBB&sideLabels=BF5FBB&dates=9E4C98" alt="dkachari's streak stats" height="195px"/>
-  </a>
-</div>
+</br>
+</br>
 
-## 🌟 Contribution Graph:
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=dkachari&bg_color=1a0520&color=9e4c98&line=bf5fbb&point=ffffff&area=true&area_color=9e4c98&hide_border=true)](https://github.com/dkachari)
-
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph" style="display:inline-block; border: 1px solid white; border-radius: 12px; overflow: hidden; margin-top: 10px;">
+  <img alt="dkachari's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=dkachari&bg_color=00000000&color=9D79F2&line=7A00FF&point=FFFFFF&hide_border=true" />
+</a>
 
 
 <details>
@@ -166,6 +167,7 @@
 </br>
 </br>
 </details>
+
 
 
 
