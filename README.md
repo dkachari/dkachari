@@ -51,8 +51,8 @@
 <br/>
 <br/>
 <br/>
- <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dkachari&theme=midnight-purple&hide_border=false&background=0D111700&stroke=8A2BE2&ring=8A2BE2&fire=8A2BE2&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8A2BE2&sideLabels=8A2BE2&dates=8A2BE2" alt="dkachari's streak stats" height="195px"/>
+ <!--  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dkachari&theme=midnight-purple&hide_border=false&background=0D111700&stroke=8A2BE2&ring=8A2BE2&fire=8A2BE2&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8A2BE2&sideLabels=8A2BE2&dates=8A2BE2" alt="dkachari's streak stats" height="195px"/> -->
 </a>
 
 </br>
