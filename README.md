@@ -37,8 +37,11 @@
 
 
 ## 📊 Stats:
+
+<br/>
+<br/>
  
- 
+ <!-- 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <a href="https://github.com/anuraghazra/github-readme-stats" style="display:inline-block; border: 1px solid white; border-radius: 12px; overflow: hidden; margin: 5px;">
     <img alt="dkachari's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=dkachari&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=00000000" height="192px"/>
@@ -46,17 +49,15 @@
   <a href="https://github.com/anuraghazra/github-readme-stats" style="display:inline-block; border: 1px solid white; border-radius: 12px; overflow: hidden; margin: 5px;">
     <img alt="dkachari's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkachari&langs_count=8&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000&hide=Jupyter%20Notebook,Roff" height="192px"/>
   </a>
-</div>
+</div> -->
 
-<br/>
-<br/>
+![](https://github-readme-stats.vercel.app/api?username=dkachari&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dkachari&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 <br/>
  <!--  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dkachari&theme=midnight-purple&hide_border=false&background=0D111700&stroke=8A2BE2&ring=8A2BE2&fire=8A2BE2&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8A2BE2&sideLabels=8A2BE2&dates=8A2BE2" alt="dkachari's streak stats" height="195px"/> -->
 </a>
-
-</br>
-</br>
 </br>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph" style="display:inline-block; border: 1px solid white; border-radius: 12px; overflow: hidden; margin-top: 10px;">
