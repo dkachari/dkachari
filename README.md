@@ -9,12 +9,9 @@
 ```text
 dkachari@github
 ──────────────────────────────────────────────────
-name         Debojit · Deb
-languages    C · C++ · Python
+name         Debojit
+languages    C · C++ · Python · Rush · Java · JavaScript
 exploring    Python, data science & network analysis
-studying     Chemistry, mathematics & computing
-tools        VS Code · JupyterLab · uv · Git
-setup        macOS · iTerm2 · zsh
 offline      Badminton & music
 ```
 
