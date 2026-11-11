@@ -1,14 +1,16 @@
 <div align="center">
-  <img src="./gif/111.gif" width="900" alt="Debojit's animated profile banner">
-  <br>
-  <a href="https://readme-typing-svg.demolab.com/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=33&amp;duration=2000&amp;pause=1000&amp;color=F6FF00&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=60&amp;lines=Hi+there!+Debojit+this+side.;Full+Stack+Web+Developer.;Better+Not+To+Steal+My+Code!!" alt="Hi there! Debojit this side." /></a>
-  <br>
-  <a href="https://www.linkedin.com/in/d-kachari-5865132b5/"><img width="32" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/fluency/48/9e4c98/linkedin.png"/></a> &nbsp; <a href="https://discord.gg/DkMZzdPm8N" title="Discord Server"><img width="32" alt="Discord" src="https://img.icons8.com/fluency/48/9e4c98/discord-logo.png"/></a> &nbsp; <a href="https://leetcode.com/dkachari" title="LeetCode"><img width="32" alt="LeetCode" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/9e4c98/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/></a> &nbsp; <a href="https://bio.sepiaz.in" title="Portfolio"><img width="32" alt="Portfolio" src="https://img.icons8.com/fluency/48/9e4c98/portfolio.png"/></a>
-  <h3> 🚀 Innovative Full Stack Developer | AI & Blockchain Enthusiast | Open-Source Advocate </h3>
-<hr>
-
-<p>I architect immersive digital experiences across web and mobile platforms, blending cutting-edge development with AI/Blockchain integration. As a passionate open-source contributor, I build tools that empower developer communities while speaking at tech conferences to demystify emerging technologies.</p>
+  <img src="./gif/after-hours.gif" width="900" alt="Debojit · Python, data science, and network analysis · Animated vinyl and equalizer">
+  <p>Learning data science with Python and exploring the math behind graphs and networks.</p>
+  <p>
+    <a href="https://www.linkedin.com/in/d-kachari-5865132b5/"><img width="32" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/fluency/48/9e4c98/linkedin.png"/></a> &nbsp; <a href="https://discord.gg/DkMZzdPm8N" title="Discord Server"><img width="32" alt="Discord" src="https://img.icons8.com/fluency/48/9e4c98/discord-logo.png"/></a> &nbsp; <a href="https://leetcode.com/dkachari" title="LeetCode"><img width="32" alt="LeetCode" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/9e4c98/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/></a> &nbsp; <a href="https://bio.sepiaz.in" title="Portfolio"><img width="32" alt="Portfolio" src="https://img.icons8.com/fluency/48/9e4c98/portfolio.png"/></a>
+  </p>
 </div>
+
+---
+
+## Featured project
+
+[Karate Club Network Analysis](https://github.com/dkachari/dsc212_karate_modularity) · A Jupyter notebook exploring community structure with modularity.
 
 ---
 
